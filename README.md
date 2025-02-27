@@ -5,17 +5,12 @@ The Serene Mental Health App is designed to help students achieve a state of cal
 
 ## Core Features Implemented
 
-Mood Tracking: Log your daily mood with emojis and notes, it also includes graphs to show different moods during the week.
-
-Journaling: Write and manage journal entries with tags and prompts.
-
-Guided Meditation: Access meditation sessions with self affirmations to cheer you up.
-
-Breathing Exercises: Practice breathing techniques to reduce stress.
-
-Peer Support Chat: Join anonymous support groups and chat with peers.
-
-Emergency Contacts: Quickly access emergency helplines and university counselors.
+  - Mood Tracking: Log your daily mood with emojis and notes, it also includes graphs to show different moods during the week.
+  - Journaling: Write and manage journal entries with tags and prompts.
+  - Guided Meditation: Access meditation sessions with self affirmations to cheer you up.
+  - Breathing Exercises: Practice breathing techniques to reduce stress.
+  - Peer Support Chat: Join anonymous support groups and chat with peers.
+  - Emergency Contacts: Quickly access emergency helplines and university counselors.
 
 ## Installation Guide
 ### Prerequisites
@@ -83,10 +78,12 @@ Emergency Contacts: Quickly access emergency helplines and university counselors
 ## Screenshots
 
 
-![image](https://github.com/user-attachments/assets/2fb10e8f-a1a2-4ef4-8e3d-7df63f7ee0a7)
 
-  
-         
+
+  ![WhatsApp Image 2025-02-27 at 13 53 47_0b963922](https://github.com/user-attachments/assets/834b9042-0381-461b-aeed-9a58d7b2c981)
+
+     ![WhatsApp Image 2025-02-27 at 13 53 48_7849f3e3](https://github.com/user-attachments/assets/576babd9-ec88-4041-9d18-9415c30dbf49)
+    
 
    
 

@@ -81,25 +81,25 @@ The Serene Mental Health App is designed to help students achieve a state of cal
 
 Here are some screenshots of the app:
 
-<img src="https://github.com/user-attachments/assets/851c490c-7a4e-4d5a-9218-6a059e33952b" width="400">
+<img src="https://github.com/user-attachments/assets/851c490c-7a4e-4d5a-9218-6a059e33952b" width="250">
 
-<img src="https://github.com/user-attachments/assets/db703743-0519-42ca-b22f-e59a48c78c9a" width="400">
+<img src="https://github.com/user-attachments/assets/db703743-0519-42ca-b22f-e59a48c78c9a" width="250">
 
-<img src="https://github.com/user-attachments/assets/ebad5c29-44ee-424c-b5e2-a8e141c6c55b" width="400">
+<img src="https://github.com/user-attachments/assets/ebad5c29-44ee-424c-b5e2-a8e141c6c55b" width="250">
 
-<img src="https://github.com/user-attachments/assets/4179e342-33b9-4762-8f0b-74dffc89bea5" width="400">
+<img src="https://github.com/user-attachments/assets/4179e342-33b9-4762-8f0b-74dffc89bea5" width="250">
 
-<img src="https://github.com/user-attachments/assets/4e3fa8ca-7457-4797-b252-d8232921ac99" width="400">
+<img src="https://github.com/user-attachments/assets/4e3fa8ca-7457-4797-b252-d8232921ac99" width="250">
 
-<img src="https://github.com/user-attachments/assets/1f324404-ab46-4cae-9f23-f00fcb09720d" width="400">
+<img src="https://github.com/user-attachments/assets/1f324404-ab46-4cae-9f23-f00fcb09720d" width="250">
 
-<img src="https://github.com/user-attachments/assets/a4a4e387-f621-4de0-95b8-f63a96f21a0b" width="400">
+<img src="https://github.com/user-attachments/assets/a4a4e387-f621-4de0-95b8-f63a96f21a0b" width="250">
 
-<img src="https://github.com/user-attachments/assets/6c656a05-ad3d-45dc-be74-81ac5a01aaee" width="400">
+<img src="https://github.com/user-attachments/assets/6c656a05-ad3d-45dc-be74-81ac5a01aaee" width="250">
 
-<img src="https://github.com/user-attachments/assets/e370b98b-c3e4-4ae5-8fae-1fc462dd6a72" width="400">
+<img src="https://github.com/user-attachments/assets/e370b98b-c3e4-4ae5-8fae-1fc462dd6a72" width="250">
 
-<img src="https://github.com/user-attachments/assets/784419ab-c279-401c-9284-07ebecb331eb" width="400">
+<img src="https://github.com/user-attachments/assets/784419ab-c279-401c-9284-07ebecb331eb" width="250">
 
 
 

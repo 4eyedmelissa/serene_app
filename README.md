@@ -1,9 +1,9 @@
-ID: 25345
+ID: 25345 <br>
 Names: Ikirezi Cyuzuzo Melissa <br>
 
 # Serene Mental Health App
 
-Serene (adjective): Calm, peaceful, and untroubled. <br>
+Serene (adjective): Calm, peaceful, and untroubled. <br> <br>
 The Serene Mental Health App is designed to help students achieve a state of calm and peace by providing tools to manage their mental wellness. The app offers features like mood tracking, journaling, guided meditation, and peer support to help users navigate stress and anxiety in a healthy way.
 
 ## Core Features Implemented
